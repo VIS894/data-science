@@ -50,3 +50,9 @@ st.pyplot(fig)
 
 
 st.divider()
+
+#file handling
+#genrator and deco
+#method overloading
+#multithreading
+#debug and unit testing
